@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "LinguaAdsf",
+  "name": "LinguaA",
   "version": "1.0.0",
   "description": "Offline page translator powered by your local Python server.",
   "permissions": [
