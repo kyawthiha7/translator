@@ -66,7 +66,7 @@ python setup_lang.py --installed
 
 **Alternatively — copy the model folder directly:**
 
-After installing on your personal machine, copy this folder to the same path on the company machine:
+After installing on your internet machine, copy this folder to the same path on the non-internet machine:
 
 | OS | Path |
 |---|---|
