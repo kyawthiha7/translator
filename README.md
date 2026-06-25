@@ -51,12 +51,12 @@ python setup_lang.py --installed
 
 **Without internet (offline install):**
 
-1. On your personal machine, download `.argosmodel` files from:
+1. On your internet machine, download `.argosmodel` files from:
    ```
    https://github.com/argosopentech/argos-translate/releases
    ```
 
-2. Copy the `.argosmodel` files to the company machine
+2. Copy the `.argosmodel` files to the non--internet machine
 
 3. Install from file:
    ```bash
